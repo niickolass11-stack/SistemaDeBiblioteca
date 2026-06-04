@@ -1,5 +1,5 @@
 import random
-from trabalho import Menu
+from biblioteca import Menu
 
 dictCadastroDeUsuario: dict = {}
 listaSenhaAleatoria: list = ["tre12", "papa34", "macadoamo4", "peixefeio"]

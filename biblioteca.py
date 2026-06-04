@@ -1,10 +1,3 @@
-
-
-# Criar Um sistema de biblioteca 
-# cadastrar livros
-# Listar Livros
-# Sair
-
 listaLivros: list = []
 
 def CadastrarLivros():
